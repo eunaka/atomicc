@@ -1,0 +1,14 @@
+{
+  "name": "contacoes",
+  "version": "1.0.0",
+  "description": "app demo to show",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "yuri.nakamora.moura",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
